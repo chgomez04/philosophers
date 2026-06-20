@@ -1,0 +1,10 @@
+*.o
+*.a
+philo
+a.out
+objs/
+obj/
+*.dSYM/
+*.tmp
+.vscode/
+.DS_Store
